@@ -1,6 +1,6 @@
 body {
     background: white;
-    font-family: sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     max-width: 900px;
     margin: auto;
 }
@@ -37,7 +37,8 @@ a {
     margin-bottom: 15px;
     text-transform: capitalize;
     text-align: justify;
-    color: blue;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .post_image {
